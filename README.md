@@ -60,6 +60,6 @@ $ curl -d '{"name":"johnny", "message":"history 10"}' -H "Content-Type: applicat
 
 {"name": "john", "message": "john_msg_1"} 
 {"name": "john", "message": "john_msg_2"} 
-{"name": "jack", "message": "john_msg_1"}
+{"name": "jack", "message": "jack_msg_1"}
 
 Это сделано для упрощения тестирования сервера и д.б. убрано в релизе.
